@@ -28,7 +28,7 @@ This Excel dashboard provides a detailed analysis of engagement and user sentime
 - Business Analysts
 
 ## 📷 Dashboard Preview:
-![Excel Dashboard](./socialmedia.png)
+![Excel Dashboard](./for_fiverr2.png)
 ## 📄 Download Full Report (PDF)
 
 [Click here to view the full dashboard PDF](./socialmedia.pdf)
